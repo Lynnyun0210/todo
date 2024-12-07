@@ -1,0 +1,17 @@
+[
+  {"name": "吃饭",
+   "CategoryName": "生活"
+  },
+  {"name": "做作业",
+   "CategoryName": "娱乐"
+  },
+  {"name": "洗澡",
+   "CategoryName": "生活"
+  },
+  {"name": "去看电影《九龙城寨》",
+    "CategoryName": "电影单"
+  },
+  {"name": "去学校完成报告",
+   "CategoryName": "学习"
+  }
+  ]

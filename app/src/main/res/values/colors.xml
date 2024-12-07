@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple1">#FFBB86FC</color>
+    <color name="purple2">#FF6200EE</color>
+    <color name="purple3">#FF3700B3</color>
+    <color name="background">#1E2121</color>
+    <color name="foreground">#475050</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="textcolor">#99FFFFFF</color>
+    <!-- res/values-night/colors.xml -->
+        <color name="purple_200">#BB86FC</color>
+        <color name="purple_500">#6200EE</color>
+        <color name="purple_700">#3700B3</color>
+        <color name="teal_200">#03DAC5</color>
+        <color name="teal_700">#018786</color>
+        <!-- 其他颜色定义 -->
+
+</resources>

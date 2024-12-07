@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+android:shape="rectangle">
+<size android:width="4dp"/> <!-- 设置滚动条宽度 -->
+<solid android:color="#020202"/> <!-- 设置滚动条颜色 -->
+<corners android:radius="2dp"/> <!-- 设置滚动条圆角 -->
+</shape>

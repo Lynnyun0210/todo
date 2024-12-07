@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TodoList</string>
+    <string name="login_slogan">Turn on self-discipline</string>
+    <string name="register_slogan">Be better for yourself</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_warning" translatable="false">The password is not same with the confirm password,try again.</string>
+    <string name="et_username" translatable="false">Please input your username</string>
+    <string name="et_password" translatable="false">Please input your password</string>
+    <string name="login_remember" translatable="false">Remember your password</string>
+    <string name="login_register" translatable="false">No account,Register it! </string>
+    <string name="login_enter" translatable="false">Login</string>
+    <string name="register_enter">Register</string>
+    <string name="todo_warning" translatable="false">The username or password can not be vacumn</string>
+    <string name="add_task">New item</string>
+    <string name="type_name">Type</string>
+    <string name="tv_data">Thursday,2 Month 2 Day</string>
+    <string name="et_search">Search…</string>
+    <string name="the_task_name">Name of task</string>
+    <string name="task_information">Task information</string>
+    <string name="finished_task">Finished Tasks</string>
+</resources>
